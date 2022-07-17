@@ -1,0 +1,17 @@
+{
+  "name": "web-scraping-node-js-selenium",
+  "version": "1.0.0",
+  "description": "Proyecto de Web Scraping simple con NodeJS y Selenium listo para clonar y modificar",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rodrigo Centurión",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^103.0.0",
+    "selenium-webdriver": "^4.3.1"
+  }
+}
