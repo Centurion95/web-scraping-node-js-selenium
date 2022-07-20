@@ -47,6 +47,9 @@ OBS: puede que para la ejecución del script se deba comentar la siguiente líne
 
 
 ## Acerca de
+rc95 19/07/2022 20:56
+- Se corrige la función getDate()
+
 rc95 - 18/07/2022 20:26
 - Indicaciones para Windows agregadas en el readme
 
